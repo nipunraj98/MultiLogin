@@ -23,7 +23,9 @@ public class loginTest extends BaseClass
 
 
 	    System.out.println(emailMap.get("username1"));
-	   // System.out.println(passwordMap.get("password1"));
+	   System.out.println(passwordMap.get("password1"));
+	   
+	   System.out.println("hello");
 
 	   int counter=DataProvider.getRowCount();
 	   for(int i=1;i<=counter;i++)
