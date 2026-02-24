@@ -1,0 +1,40 @@
+2026-02-12 17:37:04 INFO  BaseClass - ========== Test Execution Started ==========
+2026-02-12 17:37:04 INFO  BaseClass - Launching Chrome browser
+2026-02-12 17:37:09 INFO  BaseClass - Opening URL: https://rahulshettyacademy.com/client/#/auth/login
+2026-02-12 17:37:11 INFO  Listeners - TEST STARTED: loginvalidate
+2026-02-12 17:37:23 ERROR Listeners - TEST FAILED: loginvalidate
+2026-02-12 17:37:23 ERROR Listeners - java.lang.AssertionError: Login failed: Sign Out button not visible expected [true] but found [false]
+2026-02-12 17:37:24 INFO  Listeners - Screenshot captured: C:\Users\nipun.raj\eclipse-workspace\testng/test-output/screenshots/loginvalidate.png
+2026-02-12 17:37:24 INFO  BaseClass - Closing browser
+2026-02-12 17:37:25 INFO  BaseClass - ========== Test Execution Finished ==========
+2026-02-12 17:37:25 INFO  Listeners - Extent report generated
+2026-02-12 17:40:34 INFO  BaseClass - ========== Test Execution Started ==========
+2026-02-12 17:40:34 INFO  BaseClass - Launching Chrome browser
+2026-02-12 17:40:36 INFO  BaseClass - Opening URL: https://rahulshettyacademy.com/client/#/auth/login
+2026-02-12 17:40:36 INFO  Listeners - TEST STARTED: loginvalidate
+2026-02-12 17:40:49 ERROR Listeners - TEST FAILED: loginvalidate
+2026-02-12 17:40:49 ERROR Listeners - java.lang.AssertionError: Login failed: Sign Out button not visible expected [true] but found [false]
+2026-02-12 17:40:50 INFO  Listeners - Screenshot captured: C:\Users\nipun.raj\eclipse-workspace\testng/test-output/screenshots/loginvalidate.png
+2026-02-12 17:40:50 INFO  BaseClass - Closing browser
+2026-02-12 17:40:51 INFO  BaseClass - ========== Test Execution Finished ==========
+2026-02-12 17:40:51 INFO  Listeners - Extent report generated
+2026-02-12 17:43:34 INFO  BaseClass - ========== Test Execution Started ==========
+2026-02-12 17:43:34 INFO  BaseClass - Launching Chrome browser
+2026-02-12 17:43:36 INFO  BaseClass - Opening URL: https://rahulshettyacademy.com/client/#/auth/login
+2026-02-12 17:43:39 INFO  Listeners - TEST STARTED: loginvalidate
+2026-02-12 17:43:53 ERROR Listeners - TEST FAILED: loginvalidate
+2026-02-12 17:43:53 ERROR Listeners - java.lang.AssertionError: Login failed: Sign Out button not visible expected [true] but found [false]
+2026-02-12 17:43:54 INFO  Listeners - Screenshot captured: C:\Users\nipun.raj\eclipse-workspace\testng/test-output/screenshots/loginvalidate.png
+2026-02-12 17:43:54 INFO  BaseClass - Closing browser
+2026-02-12 17:43:55 INFO  BaseClass - ========== Test Execution Finished ==========
+2026-02-12 17:43:55 INFO  Listeners - Extent report generated
+2026-02-12 17:44:57 INFO  BaseClass - ========== Test Execution Started ==========
+2026-02-12 17:44:57 INFO  BaseClass - Launching Chrome browser
+2026-02-12 17:44:59 INFO  BaseClass - Opening URL: https://rahulshettyacademy.com/client/#/auth/login
+2026-02-12 17:45:00 INFO  Listeners - TEST STARTED: loginvalidate
+2026-02-12 17:45:14 ERROR Listeners - TEST FAILED: loginvalidate
+2026-02-12 17:45:14 ERROR Listeners - java.lang.AssertionError: Login failed: Sign Out button not visible expected [true] but found [false]
+2026-02-12 17:45:15 INFO  Listeners - Screenshot captured: C:\Users\nipun.raj\eclipse-workspace\testng/test-output/screenshots/loginvalidate.png
+2026-02-12 17:45:15 INFO  BaseClass - Closing browser
+2026-02-12 17:45:16 INFO  BaseClass - ========== Test Execution Finished ==========
+2026-02-12 17:45:17 INFO  Listeners - Extent report generated

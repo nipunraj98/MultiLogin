@@ -1,0 +1,28 @@
+2026-02-13 10:55:01 INFO  BaseClass - ========== Test Execution Started ==========
+2026-02-13 10:55:01 INFO  BaseClass - Launching Chrome browser
+2026-02-13 10:55:05 INFO  BaseClass - Opening URL: https://rahulshettyacademy.com/client/#/auth/login
+2026-02-13 10:55:06 INFO  Listeners - TEST STARTED: loginvalidate
+2026-02-13 10:55:13 ERROR Listeners - TEST FAILED: loginvalidate
+2026-02-13 10:55:13 ERROR Listeners - java.lang.AssertionError: Login failed: Sign Out button not visible expected [true] but found [false]
+2026-02-13 10:55:13 INFO  Listeners - Screenshot captured: C:\Users\nipun.raj\eclipse-workspace\testng/test-output/screenshots/loginvalidate.png
+2026-02-13 10:55:13 INFO  BaseClass - Closing browser
+2026-02-13 10:55:14 INFO  BaseClass - ========== Test Execution Finished ==========
+2026-02-13 10:55:14 INFO  Listeners - Extent report generated
+2026-02-13 10:56:56 INFO  BaseClass - ========== Test Execution Started ==========
+2026-02-13 10:56:56 INFO  BaseClass - Launching Chrome browser
+2026-02-13 10:56:58 INFO  BaseClass - Opening URL: https://rahulshettyacademy.com/client/#/auth/login
+2026-02-13 10:56:58 INFO  Listeners - TEST STARTED: loginvalidate
+2026-02-13 10:57:05 ERROR Listeners - TEST FAILED: loginvalidate
+2026-02-13 10:57:05 ERROR Listeners - java.lang.AssertionError: Login failed: Sign Out button not visible expected [true] but found [false]
+2026-02-13 10:57:05 INFO  Listeners - Screenshot captured: C:\Users\nipun.raj\eclipse-workspace\testng/test-output/screenshots/loginvalidate.png
+2026-02-13 10:57:05 INFO  BaseClass - Closing browser
+2026-02-13 10:57:06 INFO  BaseClass - ========== Test Execution Finished ==========
+2026-02-13 10:57:06 INFO  Listeners - Extent report generated
+2026-02-13 10:58:59 INFO  BaseClass - ========== Test Execution Started ==========
+2026-02-13 10:58:59 INFO  BaseClass - Launching Chrome browser
+2026-02-13 10:59:01 INFO  BaseClass - Opening URL: https://rahulshettyacademy.com/client/#/auth/login
+2026-02-13 10:59:01 INFO  Listeners - TEST STARTED: loginvalidate
+2026-02-13 10:59:09 INFO  Listeners - TEST PASSED: loginvalidate
+2026-02-13 10:59:09 INFO  BaseClass - Closing browser
+2026-02-13 10:59:09 INFO  BaseClass - ========== Test Execution Finished ==========
+2026-02-13 10:59:10 INFO  Listeners - Extent report generated
